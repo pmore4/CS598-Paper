@@ -1,0 +1,12 @@
+Slide 1 Title Page
+
+Hi my name is Paul Moreno. I will presenting the paper titled TensorFlow: A system for large scale machine learning. 
+The paper was originally presented in November 2016 at the 12th USENIX  Symposium on Operating Systems Design and Implementation 
+and is written by the Google Brain team that developed TensorFlow. 
+
+The paper goes into detail describing their motivations for the design and implementation of Tensorflow. 
+it also details tensorflow benchmarks various architectures. Evaluates tensorflow performance against othe architectures for  
+image classification, speech recognition, and language modelling. 
+
+Slide 2 
+
